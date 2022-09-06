@@ -30,7 +30,8 @@ Update the key value of all adjacent vertices of u. To update the key values, it
 
 Observation
 
-The shortest distance according to the minimum cost spanning tree is from nagpur to hyderabad.
-The first two selected edges are Amritsar and Patna having the shortest distance according to the matrix.
+1.The shortest distance according to the minimum cost spanning tree is from nagpur to hyderabad.
 
-Hyderabad is close to Mumbai and Kanyakumari similarly Patna is close to Kolkata and nagpur as compared to others.
+2.The first two selected edges are Amritsar and Patna having the shortest distance according to the matrix.
+
+3.Hyderabad is close to Mumbai and Kanyakumari similarly Patna is close to Kolkata and nagpur as compared to others.
