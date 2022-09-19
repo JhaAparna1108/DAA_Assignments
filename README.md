@@ -35,3 +35,15 @@ Observation
 2.The first two selected edges are Amritsar and Patna having the shortest distance according to the matrix.
 
 3.Hyderabad is close to Mumbai and Kanyakumari similarly Patna is close to Kolkata and nagpur as compared to others.
+
+Test Cases
+
+Case 1
+
+![ss1](https://user-images.githubusercontent.com/108869232/191075112-98f99569-4162-4809-84f0-61ff73a78ccf.png)
+
+Case 2
+
+![ss2](https://user-images.githubusercontent.com/108869232/191075446-984ecf48-e54b-4726-8f26-cce935039839.png)
+
+
